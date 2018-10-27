@@ -13,8 +13,8 @@ redirect_from:
 </p>
 
 
-* I am now first-year joint Ph.D. student at [Machine Learning Department](https://www.ml.cmu.edu) and [Heinz College](https://www.heinz.cmu.edu) in [Carnegie Mellon University](https://www.cmu.edu), advised by Prof. [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/index.html).
-* I received my Bachelor's Degree in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), where I worked as a Research Assistant at Machine Learning group in [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/). 
+* I am now a first-year joint Ph.D. student at [Machine Learning Department](https://www.ml.cmu.edu) and [Heinz College](https://www.heinz.cmu.edu) in [Carnegie Mellon University](https://www.cmu.edu), where I am fortunate to be advised by [Prof. Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/index.html).
+* I received my Bachelor's Degree in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), where I worked as a Research Assistant at Machine Learning group in [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/), advised by [Prof. Weinan Zhang](http://wnzhang.net), [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/). 
 * My research interests lie in deep learning and representation learning, as well as their applications in recommender systems, natural language processing and anomaly detection. If you are interested in working or discussing interesting research topics with me, please feel free to drop me an <a href="mailto:xuejianw@andrew.cmu.edu">email</a>.
 
 News
