@@ -13,8 +13,7 @@ redirect_from:
 </p>
 
 
-* I am now a first-year joint Ph.D. student at [Machine Learning Department](https://www.ml.cmu.edu) and [Heinz College](https://www.heinz.cmu.edu) in [Carnegie Mellon University](https://www.cmu.edu), where I am fortunate to be advised by [Prof. Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/index.html).  
-  [Curriculum Vitae](http://xjwangsjtu.github.io/files/Wang.pdf)
+* I am now a first-year joint Ph.D. student at [Machine Learning Department](https://www.ml.cmu.edu) and [Heinz College](https://www.heinz.cmu.edu) in [Carnegie Mellon University](https://www.cmu.edu), where I am fortunate to be advised by [Prof. Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/index.html). Here is my [Curriculum Vitae](http://xjwangsjtu.github.io/files/Wang.pdf).
 * My research interests lie in deep learning and representation learning, as well as their applications in recommender systems, natural language processing and anomaly detection. If you are interested in working or discussing interesting research topics with me, please feel free to drop me an <a href="mailto:xuejianw@andrew.cmu.edu">email</a>.
 * My research will be supported by [CMU Presidential Fellowship](https://www.cmu.edu/leadership/pres-fellow-scholar/).
 
