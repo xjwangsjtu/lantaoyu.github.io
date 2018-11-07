@@ -3,7 +3,7 @@ title: "Large-scale Interactive Recommendation with Tree-structured Policy Gradi
 collection: publications
 permalink: /publications/AAAI
 venue: "AAAI 2019"
-date: 2018-09-11
+date: 2019-02-11
 citation: 'Haokun Chen, Xinyi Dai, Weinan Zhang, Han Cai, <b>Xuejian Wang</b>, Ruiming Tang, Yuzhou Zhang, Yong Yu. <i> The Thirty-Third AAAI Conference on Artificial Intelligence </i> <b>AAAI 2019</b>.'
 ---  
 [[PDF]](https://xjwangsjtu.github.io/_pages/404.md)

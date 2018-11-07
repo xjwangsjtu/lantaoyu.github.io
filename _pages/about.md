@@ -19,8 +19,8 @@ redirect_from:
 
 News
 ===
-[<b>November 04, 2018</b>] I received [CMU Presidential Fellowship](https://www.cmu.edu/leadership/pres-fellow-scholar/). Thanks to [PwC Risk and Regulatory Services Innovation Center](https://www.cmu.edu/risk-reg-center/index.html) for supporting!
-[<b>November 04, 2018</b>] A paper titled "Large-scale Interactive Recommendation with Tree-structured Policy Gradient" gets accepted to AAAI 2019.
+[<b>November 04, 2018</b>] I received [CMU Presidential Fellowship](https://www.cmu.edu/leadership/pres-fellow-scholar/). Thanks to [PwC Risk and Regulatory Services Innovation Center](https://www.cmu.edu/risk-reg-center/index.html) for supporting!  
+[<b>November 04, 2018</b>] A paper titled "Large-scale Interactive Recommendation with Tree-structured Policy Gradient" gets accepted to AAAI 2019.  
 [<b>November 08, 2017</b>] A paper titled "Neural Link Prediction over Aligned Networks" was accepted to AAAI 2018.  
 [<b>October 29, 2017</b>] I was awarded [Rongchang Science and Innovation Scholarship (Nomination)](http://xsb.seiee.sjtu.edu.cn/xsb/info/12988.htm) (Top 30 in SJTU).  
 [<b>August 13-19, 2017</b>] I attended [the 23rd SIGKDD Conference on Knowledge Discovery and Data Mining](http://http://www.kdd.org/kdd2017/) held in Halifax, Nova Scotia, Canada and presented our poster.  
