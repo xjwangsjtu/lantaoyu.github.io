@@ -17,6 +17,7 @@ Education
 * I am now a **Ph.D. student** at CMU, advised by Prof. [Leman Akoglu](http://www.andrew.cmu.edu/user/lakoglu/).
 * I am a Graduate Student Associate in DATA Lab, Carnegie Mellon University.
 * My research interests are the broad areas of machine learning including deep learning, reinforcement learning and their applications in various domains such as recommender system and social networks. In general, my research aims to:(a)mining underlying patterns of human interaction and behaviors; (b)developing practical algorithms and scalable tools to solve problems.
+* I received my Bachelor's Degree in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn), where I worked as a Research Assistant at Machine Learning group in [Apex Data and Knowledge Mangement Lab](http://apex.sjtu.edu.cn/), advised by [Prof. Weinan Zhang](http://wnzhang.net), [Prof. Yong Yu](http://apex.sjtu.edu.cn/members/yyu) and [Prof. Jun Wang](http://www0.cs.ucl.ac.uk/staff/Jun.Wang/). 
 
 
 Publications
