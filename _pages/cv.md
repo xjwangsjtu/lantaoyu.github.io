@@ -42,4 +42,4 @@ Talks
 
 Honors
 =====
-test
+For more details, please view my CV.
