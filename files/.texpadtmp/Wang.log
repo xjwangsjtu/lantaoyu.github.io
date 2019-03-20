@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.6.7)  25 FEB 2019 17:45
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2017.6.7)  20 MAR 2019 13:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -335,10 +335,10 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 170.
 Here is how much of TeX's memory you used:
  9008 strings out of 493653
  126897 string characters out of 6148875
- 217182 words of memory out of 5000000
+ 217191 words of memory out of 5000000
  12578 multiletter control sequences out of 15000+600000
  9697 words of font info for 39 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  29i,5n,35p,232b,466s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/xuejian.wang/Pycharmprojects/xjwangsjtu.github.io/files/.texpadtmp/Wang.dvi (2 pages, 11976 bytes).
+Output written on /Users/xuejian.wang/Pycharmprojects/xjwangsjtu.github.io/files/.texpadtmp/Wang.dvi (2 pages, 11988 bytes).
