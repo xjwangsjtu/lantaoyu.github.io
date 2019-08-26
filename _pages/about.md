@@ -19,6 +19,8 @@ redirect_from:
 
 News
 ===
+[<b>June 17, 2019</b>] Started my internship as an applied scientist@Amazon Seattle.
+[<b>June 08, 2019</b>] One paper titled "Continual Rare-Class Recognition with Emerging Novel Subclasses" was accepted to ECML PKDD 2019 as an oral presentation. 
 [<b>November 04, 2018</b>] I received [CMU Presidential Fellowship](https://www.cmu.edu/leadership/pres-fellow-scholar/). Thanks [PwC Risk and Regulatory Services Innovation Center](https://www.cmu.edu/risk-reg-center/index.html) for supporting!  
 [<b>November 04, 2018</b>] A paper titled "Large-scale Interactive Recommendation with Tree-structured Policy Gradient" gets accepted to AAAI 2019.  
 [<b>November 08, 2017</b>] A paper titled "Neural Link Prediction over Aligned Networks" was accepted to AAAI 2018.  
