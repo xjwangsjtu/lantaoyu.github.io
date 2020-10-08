@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 
-* I am a second-year PhD student at [Heinz College](https://www.heinz.cmu.edu), [Carnegie Mellon University](https://www.cmu.edu). Here is my [Curriculum Vitae](http://xjwangsjtu.github.io/files/CV_XuejianWang.pdf).
+* I am a PhD student at [Heinz College](https://www.heinz.cmu.edu), [Carnegie Mellon University](https://www.cmu.edu). Here is my [Curriculum Vitae](http://xjwangsjtu.github.io/files/CV_XuejianWang.pdf).
 * My research interests lie in deep learning and representation learning, as well as their applications in natural language processing, recommender systems. My research interests also include overcoming catastrophic forgetting in neural nets. If you are interested in working or discussing interesting research topics with me, please feel free to drop me an <a href="mailto:xuejianw@andrew.cmu.edu">email</a>.
 * My research is supported by [CMU Presidential Fellowship](https://www.cmu.edu/leadership/pres-fellow-scholar/).
 
